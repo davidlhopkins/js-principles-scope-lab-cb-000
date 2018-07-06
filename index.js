@@ -6,5 +6,5 @@ function upperCaseCustomerName() {
 }
 
 function setBestCustomer(name) {
-  let bestCustomer = 'bob'
+  let bestCustomer = 'david'
 }
