@@ -4,3 +4,7 @@ customerName = 'bob';
 function upperCaseCustomerName() {
   customerName = 'BOB';
 }
+
+function setBestCustomer(name) {
+  let bestCustomer = 'bob'
+}
