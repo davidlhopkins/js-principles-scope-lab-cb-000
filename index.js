@@ -1,6 +1,7 @@
 // Write your solution in this file!
 customerName = 'bob';
 bestCustomer;
+leastFavoriteCustomer
 
 function upperCaseCustomerName() {
   customerName = 'BOB';
@@ -12,4 +13,8 @@ function setBestCustomer() {
 
 function overwriteBestCustomer(name) {
   bestCustomer = name
+}
+
+function leastFavoriteCustomer(name)
+  leastFavoriteCustomer = name
 }
