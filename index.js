@@ -8,13 +8,13 @@ function upperCaseCustomerName() {
 }
 
 function setBestCustomer() {
-  bestCustomer = 'not bob'
+  bestCustomer = 'not bob';
 }
 
 function overwriteBestCustomer(name) {
-  bestCustomer = name
+  bestCustomer = name;
 }
 
 function leastFavoriteCustomer(name)
-  leastFavoriteCustomer = name
+  leastFavoriteCustomer = name;
 }
